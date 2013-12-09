@@ -1,0 +1,25 @@
+{
+  "name": "connect-fuse",
+  "version": "0.0.1",
+  "description": "Connect middleware for the fuse library.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smebberson/connect-fuse.git"
+  },
+  "keywords": [
+    "connect",
+    "expressjs",
+    "express",
+    "middleware",
+    "fuse",
+    "packager",
+    "combiner",
+    "minify"
+  ],
+  "author": "Scott Mebberson",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/smebberson/connect-fuse/issues"
+  }
+}
