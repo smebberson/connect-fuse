@@ -23,6 +23,6 @@
     "url": "https://github.com/smebberson/connect-fuse/issues"
   },
   "dependencies": {
-    "fuse": "git://github.com/smebberson/fuse.git#moduleintegration"
+    "fuse": "0.4.0"
   }
 }
