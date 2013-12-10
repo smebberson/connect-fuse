@@ -1,6 +1,6 @@
 {
   "name": "connect-fuse",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Connect middleware for the fuse library.",
   "main": "index.js",
   "repository": {
@@ -23,6 +23,7 @@
     "url": "https://github.com/smebberson/connect-fuse/issues"
   },
   "dependencies": {
-    "fuse": "0.4.0"
+    "fuse": "0.4.0",
+    "debug": "0.7.4"
   }
 }
